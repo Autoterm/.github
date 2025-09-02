@@ -1,18 +1,5 @@
 ## Autoterm - Air and liquid heaters
 
-<style>
-    table {
-        border-spacing: 30px;
-    }
-
-    td img{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
-
-
 <table>
 
 <tr>
